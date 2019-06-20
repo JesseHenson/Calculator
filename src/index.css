@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.h-320px {
+  height: 350px
+}
+
+.h-100px {
+  height: 100px
+}
+
+.w-375px {
+  width: 390px
+}
+
+.buttonDimensions {
+  width: 75px;
+  height: 75px;
+}
+
+.zero-radius {
+  border-radius: 50px !important
+}
+
+.zeroDimensions {
+  width: 200px !important;
+  height: 75px !important;
+}
+
+.c-pointer {
+  cursor: pointer;
+ }
